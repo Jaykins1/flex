@@ -1,0 +1,14 @@
+
+.navbar {
+    background-color: #333;
+    display: flex;
+    padding: 10px;
+}
+
+a:hover {
+color: white;
+padding: 14px;
+text-decoration: none;
+background-color: #ddd;
+text color: black; 
+}
